@@ -140,6 +140,10 @@ body h1 {
     
 }
 
+.dispositivos__lista ul, li {
+    text-align: center;
+}
+
 footer {
     text-align: center;
     color: var(--secundario);
